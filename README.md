@@ -10,29 +10,31 @@ An intelligent SMS Fraud Detection System built with Machine Learning and Stream
 - ⚡ Stochastic Gradient Descent (SGD) Classifier
 - 📊 Multi-model prediction comparison
 - 🎯 Final prediction powered by Logistic Regression
-📈 Confidence scores
-📝 Keyword explainability
-🔗 URL security analysis
-📂 Batch CSV prediction
-💾 Download prediction results
+- 📈 Confidence scores
+- 📝 Keyword explainability
+- 🔗 URL security analysis
+- 📂 Batch CSV prediction
+- 💾 Download prediction results
 
 ## 🧠 Machine Learning Models
 
-Complement Naive Bayes
+**Complement Naive Bayes**
 A probabilistic text classification model that performs efficiently on sparse text data.
-Logistic Regression ⭐
+
+**Logistic Regression ⭐**
 The primary prediction model. It achieved the best overall performance during evaluation and is used to produce the application's final prediction.
-Stochastic Gradient Descent (SGD) Classifier
+
+**Stochastic Gradient Descent (SGD) Classifier**
 A fast linear classifier trained using stochastic gradient descent. It is included for comparison and performance evaluation.
 
 ## 🛠 Technologies Used
-Python
-Streamlit
-Scikit-learn
-Pandas
-Joblib
-TF-IDF Vectorizer
-Regular Expressions (Regex)
+- Python
+- Streamlit
+- Scikit-learn
+- Pandas
+- Joblib
+- TF-IDF Vectorizer
+- Regular Expressions (Regex)
 
 ## 👨‍💻 Developer
 
@@ -45,11 +47,11 @@ GitHub: https://github.com/inspirewithadad
 
 ## ## 🚀 Future Improvements
 
-📚 Improve the model using a larger and more diverse SMS dataset.
-🇳🇬 Expand support for Nigerian-specific scam and phishing SMS patterns.
-🤖 Integrate advanced deep learning models such as BERT for improved text understanding.
-📱 Develop a mobile application for Android and iOS users.
-🔄 Continuously retrain the model with newly collected SMS datasets to improve accuracy over time.
+- 📚 Improve the model using a larger and more diverse SMS dataset.
+- 🇳🇬 Expand support for Nigerian-specific scam and phishing SMS patterns.
+- 🤖 Integrate advanced deep learning models such as BERT for improved text understanding.
+- 📱 Develop a mobile application for Android and iOS users.
+- 🔄 Continuously retrain the model with newly collected SMS datasets to improve accuracy over time.
 
 ## 📌 Version
 
