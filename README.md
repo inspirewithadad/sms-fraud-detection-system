@@ -18,13 +18,13 @@ An intelligent SMS Fraud Detection System built with Machine Learning and Stream
 
 ## 🧠 Machine Learning Models
 
-**Complement Naive Bayes**
+**Complement Naive Bayes**: 
 A probabilistic text classification model that performs efficiently on sparse text data.
 
-**Logistic Regression ⭐**
+**Logistic Regression ⭐**: 
 The primary prediction model. It achieved the best overall performance during evaluation and is used to produce the application's final prediction.
 
-**Stochastic Gradient Descent (SGD) Classifier**
+**Stochastic Gradient Descent (SGD) Classifier**: 
 A fast linear classifier trained using stochastic gradient descent. It is included for comparison and performance evaluation.
 
 ## 🛠 Technologies Used
