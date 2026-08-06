@@ -5,11 +5,11 @@ An intelligent SMS Fraud Detection System built with Machine Learning and Stream
 ## ✨ Features
 
 🔍 Real-time SMS fraud detection
-🤖 Complement Naive Bayes classifier
-🏆 Logistic Regression classifier (Primary Prediction Model)
-⚡ Stochastic Gradient Descent (SGD) Classifier
-📊 Multi-model prediction comparison
-🎯 Final prediction powered by Logistic Regression
+- 🤖 Complement Naive Bayes classifier
+- 🏆 Logistic Regression classifier (Primary Prediction Model)
+- ⚡ Stochastic Gradient Descent (SGD) Classifier
+- 📊 Multi-model prediction comparison
+- 🎯 Final prediction powered by Logistic Regression
 📈 Confidence scores
 📝 Keyword explainability
 🔗 URL security analysis
