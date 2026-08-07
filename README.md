@@ -55,6 +55,6 @@ GitHub: https://github.com/inspirewithadad
 
 ## 📌 Version
 
-Version 2.0
+Version 1.0
 
 Powered by: Python • Streamlit • Scikit-learn • Machine Learning
